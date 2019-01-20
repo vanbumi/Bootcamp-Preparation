@@ -102,4 +102,9 @@ Instal 2:
 Instal 3:
 
 > Buat akun github.com dan gunakan **SSH key** untuk memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline. 
-Instal SSH di windows: 
+
+> Instal SSH di windows: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-Windows.md
+
+> Instal SSH di macOS dan Linux: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-macOSLinux.md
+
+
