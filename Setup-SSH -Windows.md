@@ -11,7 +11,7 @@ Gunakan Git Bash Window (Yang otomatis terinstal saat menginstal Git di Windows.
 
 **Langkah 1** Men-generate public/private rsa key pair, tulis commandline seperti dibawah ini: 
 
-	ssh-key
+	ssh-keygen -t rsa
 	
 **Langkah 2** Tekan enter untuk menerima default file path pada:
 
@@ -33,9 +33,9 @@ Gunakan Git Bash Window (Yang otomatis terinstal saat menginstal Git di Windows.
 		
 		#hasilnya contoh agent pid 9700
 		
-2. Ketikan ssh-add dan path private key file nya:
+2. Ketikan ssh-add dan **path private** key file nya:
 
-		ssh-add ~/.ssh/<private_key_file>
+		ssh-add ~/.ssh/id_rsa
 
 
 **Langkah 6** Menambahkan public key ke github anda.
