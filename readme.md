@@ -40,6 +40,36 @@ Tidak ada keahlian khusus programming, kelas ini untuk umum dan semua level.
 
 <br>
 
+### Run down 3 DaysBootcamp
+
+Materi yang akan di pelajari:
+
+#### HARI I
+
+1. HTML.
+2. CSS.
+3. Bootstrap.
+4. Git.
+
+#### HARI II
+
+1. Basic JavaScript.
+2. Pengenalan NodeJS.
+3. Pengenalan MongodDB.
+
+#### HARI III
+
+1. Persiapan Project.
+2. Membuat Project NodeJS.
+
+#### KELAS ONLINE
+
+1. Diskusi online.
+2. Lanjut pengerjakan project case.
+
+<br>
+
+
 ### Cara Mendaftar
 
 #### 1. Contact Us
@@ -91,15 +121,15 @@ Setelah membuat akun di gitlab.com silahkan login di gitlab.com
 
 Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
-Instal 1:
+**Instal 1:**
 
 > Instal IDE (Integrated Development Environment ) atau sering disebut Code Editor, silahkan install IDE **brackets.io** dan **visual studio code**, link nya: https://code.visualstudio.com/ & http://brackets.io/ .
 
-Instal 2:
+**Instal 2:**
 
 > Instal GIT pada OS anda masing2, ini link nya https://git-scm.com, bagi pengguna **windows** mungkin link ini akan banyak membantu https://gitforwindows.org, yang ingin **belajar apa itu GIT** versi Indonesia bisa di link ini https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git .
 
-Instal 3:
+**Instal 3:**
 
 > Buat akun github.com dan gunakan **SSH key** untuk memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline. 
 
@@ -108,7 +138,7 @@ Instal 3:
 > Instal SSH di macOS dan Linux: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-macOSLinux.md
 
 
-Instal 4:
+**Instal 4:**
 
 > **Instal Mongodb untuk Windows**, download file installer disini https://www.mongodb.org/downloads, setelah download selesai doble click untuk proses instalasi hingga selesai.
 
@@ -132,3 +162,8 @@ Instal 4:
 > **Solusi nya adalah** buat folder di C:\data\db.
 
 
+**Instal 5: Mongodb Compass**
+
+	https://www.mongodb.com/download-center/community
+
+	

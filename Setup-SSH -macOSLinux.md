@@ -11,7 +11,7 @@ Gunakan Git Bash Window (Yang otomatis terinstal saat menginstal Git di Windows.
 
 **Langkah 1** Men-generate public/private rsa key pair, tulis commandline seperti dibawah ini: 
 
-	ssh-key
+	ssh-keygen -t rsa
 	
 **Langkah 2** Tekan enter untuk menerima default file path pada:
 
