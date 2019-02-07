@@ -140,7 +140,7 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 **Instal 4:**
 
-> **Instal Mongodb untuk Windows**, download file installer disini https://www.mongodb.org/downloads, setelah download selesai doble click untuk proses instalasi hingga selesai.
+> **Instal Mongodb untuk Windows**, download file installer disini https://www.mongodb.com/download-center/community, setelah download selesai doble click untuk proses instalasi hingga selesai. Note: "Jangan gunakan mongodb cloud!" dan install mongodb dulu, **mongodb compass** belakangan saja.
 
 > Pada pilihan Choose Setup Type > pilih Complete.
 
