@@ -142,6 +142,8 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 > **Instal Mongodb untuk Windows**, download file installer disini https://www.mongodb.com/download-center/community, setelah download selesai doble click untuk proses instalasi hingga selesai. Note: "Jangan gunakan mongodb cloud!" dan install mongodb dulu, **mongodb compass** belakangan saja.
 
+> Pengguna windows 7 system 32 gunakan file installer khusus bisa download disini [https://www.mongodb.org/dl/win32/i386](https://www.mongodb.org/dl/win32/i386).
+
 > Pada pilihan Choose Setup Type > pilih Complete.
 
 > Biasanya aplikasi akan tersimpan di folder C:\Program Files\MongodDB\, kemungkinan berbeda pada versi windows lain. Silahkan cari folder bin berada kemudian copy path karena kita akan memasukannya ke dalam Path pada Environment Variable.
