@@ -118,18 +118,21 @@ Setelah membuat akun di gitlab.com silahkan login di gitlab.com
 
 ### Instalasi
 
-
 Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
-**Instal 1:**
+**Instal 1: NodeJS**
+
+> Instal node js versi terakhir (LTS) ```nodejs.org```
+
+**Instal 2: Editor**
 
 > Instal IDE (Integrated Development Environment ) atau sering disebut Code Editor, silahkan install IDE **brackets.io** dan **visual studio code**, link nya: https://code.visualstudio.com/ & http://brackets.io/ .
 
-**Instal 2:**
+**Instal 3: GIT System**
 
 > Instal GIT pada OS anda masing2, ini link nya https://git-scm.com, bagi pengguna **windows** mungkin link ini akan banyak membantu https://gitforwindows.org, yang ingin **belajar apa itu GIT** versi Indonesia bisa di link ini https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git .
 
-**Instal 3:**
+**Instal 4: SSH KEY**
 
 > Buat akun github.com dan gunakan **SSH key** untuk memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline. 
 
@@ -137,8 +140,7 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 > Instal SSH di macOS dan Linux: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-macOSLinux.md
 
-
-**Instal 4:**
+**Instal 5: Mongodb**
 
 > **Instal Mongodb untuk Windows**, download file installer disini https://www.mongodb.com/download-center/community, setelah download selesai doble click untuk proses instalasi hingga selesai. Note: "Jangan gunakan mongodb cloud!" dan install mongodb dulu, **mongodb compass** belakangan saja.
 
@@ -163,9 +165,9 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 > **Solusi nya adalah** buat folder di C:\data\db.
 
-
-**Instal 5: Mongodb Compass**
+**Instal 6: Mongodb Compass**
 
 	https://www.mongodb.com/download-center/community
 
-	
+
+​	
