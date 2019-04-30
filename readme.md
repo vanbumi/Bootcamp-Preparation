@@ -84,7 +84,10 @@ Materi yang akan di pelajari:
 
 #### 3. Membayar Biaya Pelatihan
 
-	BCA Rekening 7000176782 a/n Setyo Bagus Widyo
+* Mandiri norek 1310015876404 an Setyo Bagus Widyo Bumi.
+* BCA norek 7000176782 an Setyo Bagus Widyo Bumi.
+* BTPN Jenius norek 90011357772 an Setyo Bagus Widyo Bumi.
+* BNI norek 0811744529 an Setyo Bagus Widyo Bumi.
 
 <br>
 
