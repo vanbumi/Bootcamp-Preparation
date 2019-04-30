@@ -142,7 +142,7 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 **Instal 5: Mongodb**
 
-
+[Install MongoDB here](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Instal-mongodb.md)
 
 **Instal 6: Mongodb Compass**
 
