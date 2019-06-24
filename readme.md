@@ -44,20 +44,20 @@ Tidak ada keahlian khusus programming, kelas ini untuk umum dan semua level.
 
 Materi yang akan di pelajari:
 
-#### HARI I
+#### HARI ke I
 
 1. HTML.
 2. CSS.
 3. Bootstrap.
 4. Git.
 
-#### HARI II
+#### HARI ke II
 
 1. Basic JavaScript.
 2. Pengenalan NodeJS.
 3. Pengenalan MongodDB.
 
-#### HARI III
+#### HARI ke III
 
 1. Persiapan Project.
 2. Membuat Project NodeJS.
@@ -147,9 +147,16 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 [Install MongoDB here](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Instal-mongodb.md)
 
-**Instal 6: Mongodb Compass**
+**Instal 6: Mongodb Compass atau Robo Mongo** 
+
+Mongo Compass:
 
 	https://www.mongodb.com/download-center/community
 
+Robo Mongo:
+
+```
+https://robomongo.org/download
+```
 
 ​	
