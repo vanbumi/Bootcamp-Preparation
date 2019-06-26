@@ -161,4 +161,4 @@ https://robomongo.org/download
 
 ​<br>
 <br>
-[>> Rundown Bootcamp](bit.ly/rundown-bootcamp)
+[>> Rundown Bootcamp.](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/rundown-bootcamp.md)

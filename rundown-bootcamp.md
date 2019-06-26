@@ -1,6 +1,6 @@
-# MedioCademy Bootcamp Fullstack JavaScript
+# Rundown Training
 
-## Rundown Training
+## MedioCademy Bootcamp Fullstack JavaScript
 
 ### Waktu Training
 
