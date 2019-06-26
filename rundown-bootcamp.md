@@ -87,3 +87,21 @@ CSS Powerpoint: [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/
 [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/materi-intro-react1.md](https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/materi-intro-react1.md).
 
 
+
+<br>
+
+<br>
+
+ [<< Go Back](https://github.com/vanbumi/Bootcamp-Preparation) to bootcamp preparation. 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<hr>
