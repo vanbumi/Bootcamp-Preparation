@@ -38,7 +38,7 @@ Jumat s/d Minggu, 09:00 - 16:00
 
 <br>
 
-### Hari 1:
+### Hari ke 1:
 
 ##### 1. Review Intalasi & Apa itu Fulstack.
 
@@ -54,11 +54,9 @@ CSS Powerpoint: [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/
 
 [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/5-FullStack%20Development%20Training.pptx](https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/5-FullStack%20Development%20Training.pptx).
 
+<br><br>
 
-
-
-
-### Hari 2:
+### Hari ke 2:
 
 ##### 4. Git Versioning.
 
@@ -72,11 +70,9 @@ CSS Powerpoint: [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/
 
 [https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/materi-js.md](https://gitlab.com/dyomedio/kelas-fullstack/blob/master/Materi/materi-js.md).
 
+<br><br>
 
-
-
-
-### Hari 3:
+### Hari ke 3:
 
 ##### 7. MongoDB.
 
