@@ -6,17 +6,17 @@ Pelatihan Fullstack JavaScript Developer dikelola oleh MedioCademy.com
 
 <br><br>
 
-#### Thema
+#### Thema 
 
-> ##### "Cara Cerdas & Cepat Menjadi Fullstack JavaScript Developer Profesional".
+> ##### "Kejar Cepat Menjadi Fullstack JavaScript Developer Profesional".
 
 <br>
 
-#### Nama Bootcamp
+#### Nama Kelas
 
-3 Days Bootcamp **"plus"** 3 Months Fullstack JavaScript Developer.
+3 Days Bootcamp **"plus"** Fullstack JavaScript Developer.
 
-#### Penjelasan
+#### Deskripsi
 
 Pelatihan ini adalah Kombinasi antara **"3 Hari Kelas Tatap Muka"** plus **"3 Bulan Kelas ONLINE"** di web mediocademy.com.
 
@@ -44,25 +44,27 @@ Tidak ada keahlian khusus programming, kelas ini untuk umum dan semua level.
 
 Materi yang akan di pelajari:
 
-#### HARI ke I
+##### 1. Review Intalasi & Apa itu Fulstack. 
 
-1. HTML.
-2. CSS.
-3. Bootstrap.
-4. Git.
+##### 2. HTML & CSS. 
 
-#### HARI ke II
+##### 3. BootstrapJS.
 
-1. Basic JavaScript.
-2. Pengenalan NodeJS.
-3. Pengenalan MongodDB.
+##### 4. Git Versioning.
 
-#### HARI ke III
+##### 5. Deploy heroku.
 
-1. Persiapan Project.
-2. Membuat Project NodeJS.
+##### 6. JavaScript dasar.
 
-#### KELAS ONLINE
+##### 7. MongoDB.
+
+##### 8. NodeJS.
+
+##### 9. Pengenalan React.
+
+
+
+#### BIMBINGAN ONLINE
 
 1. Diskusi online.
 2. Lanjut pengerjakan project case.
@@ -74,38 +76,16 @@ Materi yang akan di pelajari:
 
 #### 1. Contact Us
 
-	Customer Service: WhatsApp: 0859-5651-2111
-	Email: mediocademy@gmail.com
-	Website: mediocademy.com 
+* Customer Service: WhatsApp: 0859-5651-2111
+* Email: mediocademy@gmail.com
+* Website: courses.mediocademy.com 
 
-#### 2. Mengisi Form
-
-	bit.ly/3daysbootcamp
-
-#### 3. Membayar Biaya Pelatihan
+#### 2. Membayar Biaya Pelatihan
 
 * Mandiri norek 1310015876404 an Setyo Bagus Widyo Bumi.
 * BCA norek 7000176782 an Setyo Bagus Widyo Bumi.
 * BTPN Jenius norek 90011357772 an Setyo Bagus Widyo Bumi.
 * BNI norek 0811744529 an Setyo Bagus Widyo Bumi.
-
-<br>
-
-
-
-### Langkah setelah mendaftar
-
-#### 1. Membuat akun trello.com.
-
-Aplikasi trello.com kita gunakan sebagi tempat diskusi dan link materi, silahkan buka browser anda dan ketik trello.com kemudian sign-up.
-
-#### 2. Login trello dengan username dan password anda.
-
-Setelah login trello anda akan melihat kolom dan list board di trello, lihat gambar.
-
-![trello](img/trello.png)
-
-<br>
 
 #### 3. Membuat akun gitlab.com
 
@@ -125,11 +105,11 @@ Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
 
 **Instal 1: NodeJS**
 
-> Instal node js versi terakhir (LTS) ```nodejs.org```
+/> Instal node js versi terakhir (LTS) ```nodejs.org```
 
 **Instal 2: Editor**
 
-> Instal IDE (Integrated Development Environment ) atau sering disebut Code Editor, silahkan install IDE **brackets.io** dan **visual studio code**, link nya: https://code.visualstudio.com/ & http://brackets.io/ .
+/> Instal IDE (Integrated Development Environment ) atau sering disebut Code Editor, silahkan install IDE **visual studio code**, link nya: https://code.visualstudio.com/ .
 
 **Instal 3: GIT System**
 
@@ -159,6 +139,7 @@ Robo Mongo:
 https://robomongo.org/download
 ```
 
-​<br>
 <br>
-[>> Rundown Bootcamp.](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/rundown-bootcamp.md)
+<br>
+
+/> Go to [Rundown Bootcamp.](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/rundown-bootcamp.md)
